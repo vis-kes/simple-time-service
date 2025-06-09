@@ -18,4 +18,4 @@ USER appuser
 
 EXPOSE 3000
 CMD ["node", "server.js"]
-
+# node server.js
